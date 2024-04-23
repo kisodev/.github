@@ -24,3 +24,7 @@ So we are start with the fundament
 # Device orgs
 
 # Support Policy
+
+# release Policy
+
+release using [Source Forge](https://sourceforge.net/projects/kiso-dev/)
