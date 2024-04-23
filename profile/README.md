@@ -1,5 +1,18 @@
 # What is Kiso
 
+Kiso is Japanese river
+
+Sony codename use japan river
+
+It all started with Sony Kumano devices.
+
+In Japanese "kiso" is "基礎" means fundament
+
+We are newer development group
+
+So we are start with the fundament
+
+
 # Admin
 
 # Member
