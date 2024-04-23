@@ -6,6 +6,8 @@ Sony codename use japan river
 
 It all started with Sony Kumano devices.
 
+So we are using japanese river name
+
 In Japanese "kiso" is "基礎" means fundament
 
 We are newer development group
@@ -21,3 +23,4 @@ So we are start with the fundament
 
 # Device orgs
 
+# Support Policy
