@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](profile/banner.png)
 
 ## About us
 
