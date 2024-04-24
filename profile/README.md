@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 ## About us
 
 **Kiso** is a small development group. 
