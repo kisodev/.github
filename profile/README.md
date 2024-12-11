@@ -2,4 +2,4 @@
 
 #### Our Buddy:  
 [WitAqua](https://github.com/WitAqua)  
-Android custom Operating System.
+An AOSP based Android Operating System.
