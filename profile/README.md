@@ -1,5 +1,5 @@
 ![banner](banner.png)
 
-#### Our Buddy:  
+**Our Buddy:**  
 [WitAqua](https://github.com/WitAqua)  
 An AOSP based Android Operating System.
